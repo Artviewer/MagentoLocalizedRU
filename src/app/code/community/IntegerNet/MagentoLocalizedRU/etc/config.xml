@@ -134,14 +134,12 @@
             <iframe_url_prefix>https://www.nr-apps.com/n/magento-ru/</iframe_url_prefix>
             <iframe_url_suffix>.html</iframe_url_suffix>
             <feed_url_prefix>http://www.nr-apps.com/store/media/germanstoreconfig/</feed_url_prefix>
-            <default_language>
-                <code>ru</code>
-                <name>Russian</name>
-            </default_language>
+            <default_language>ru_RU</default_language>
             <available_languages>
-                <en_US>English</en_US>
-                <fr_FR>French</fr_FR>
-                <it_IT>Italian</it_IT>
+                <en_US />
+                <de_DE />
+                <fr_FR />
+                <it_IT />
             </available_languages>
             <country>RU</country>
             <currency>RUB</currency>
