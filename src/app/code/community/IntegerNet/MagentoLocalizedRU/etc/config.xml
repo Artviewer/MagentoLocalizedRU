@@ -157,42 +157,6 @@
                     <sorting>260</sorting>
                     <optional>1</optional>
                 </general__imprint__owner>
-                <general__imprint__bank_account_owner>
-                    <type>text</type>
-                    <label>Account owner</label>
-                    <sorting>300</sorting>
-                    <optional>0</optional>
-                </general__imprint__bank_account_owner>
-                <general__imprint__bank_account>
-                    <type>text</type>
-                    <label>Account</label>
-                    <sorting>310</sorting>
-                    <optional>0</optional>
-                </general__imprint__bank_account>
-                <general__imprint__bank_code_number>
-                    <type>text</type>
-                    <label>Bank number</label>
-                    <sorting>320</sorting>
-                    <optional>0</optional>
-                </general__imprint__bank_code_number>
-                <general__imprint__bank_name>
-                    <type>text</type>
-                    <label>Название банка</label>
-                    <sorting>330</sorting>
-                    <optional>0</optional>
-                </general__imprint__bank_name>
-                <general__imprint__swift>
-                    <type>text</type>
-                    <label>SWIFT</label>
-                    <sorting>340</sorting>
-                    <optional>0</optional>
-                </general__imprint__swift>
-                <general__imprint__iban>
-                    <type>text</type>
-                    <label>IBAN</label>
-                    <sorting>350</sorting>
-                    <optional>0</optional>
-                </general__imprint__iban>
             </form_fields>
         </magento_localized>
         <germansetup>
