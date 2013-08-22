@@ -137,9 +137,6 @@
             <default_language>ru_RU</default_language>
             <available_languages>
                 <en_US />
-                <de_DE />
-                <fr_FR />
-                <it_IT />
             </available_languages>
             <country>RU</country>
             <currency>RUB</currency>
@@ -158,6 +155,15 @@
                     <optional>1</optional>
                 </general__imprint__owner>
             </form_fields>
+            <modules>
+                <itabs_invoice>
+                    <is_default>0</is_default>
+                </itabs_invoice>
+                <therouv_debitpayment>
+                    <is_available>0</is_available>
+                    <is_default>0</is_default>
+                </therouv_debitpayment>
+            </modules>
         </magento_localized>
         <germansetup>
             <default_country>RU</default_country>
