@@ -142,6 +142,10 @@
             <country>RU</country>
             <currency>RUB</currency>
             <timezone>Europe/Moscow</timezone>
+            <install_guide_url>
+                <ru>http://www.nr-apps.com/n/magento_ru_ru/guide.html</ru>
+                <default>http://www.nr-apps.com/n/magento_ru_en/guide.html</default>
+            </install_guide_url>
             <form_fields>
                 <general__imprint__ceo>
                     <type>text</type>
